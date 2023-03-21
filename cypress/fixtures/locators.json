@@ -1,0 +1,20 @@
+{
+  "loginPage": {
+    "emailInputField": "#email",
+    "passwordInputField": "#password",
+    "submitBtn": "button[type = 'submit']"
+  },
+
+  "registerPage": {
+    "firstNameInputField": "#first-name",
+    "lastNameInputField": "#last-name",
+    "emailInputField": "#email",
+    "passwordInputField": "#password",
+    "passwordConfirmationField": "#password-confirmation",
+    "formCheckInputField": ".form-check-input"
+  },
+  "navigationsButtons": {
+    "logoutBtn": "a[role='button']",
+    "registerBtn": ".btn"
+  }
+}
